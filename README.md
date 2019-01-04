@@ -1,0 +1,15 @@
+请在maven的settings.xml文件中加入以下配置以启用distributionManagement
+<settings>
+	<servers>
+		<server>
+			<id>yzkj-releases</id>
+			<username>admin</username>
+			<password>admin123</password>
+		</server>
+		<server>
+			<id>yzkj-snapshots</id>
+			<username>admin</username>
+			<password>admin123</password>
+		</server>
+	</servers>
+</settings>
