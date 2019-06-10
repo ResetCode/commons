@@ -104,16 +104,16 @@ public class RedisLock {
 	 * 	{unlock();}
 	 */
 	public void unlock(){
-	  try
-	  {
+//	  try
+//	  {
 			if(this.locked) 
 			{
 				this.jedis.del(this.key);
 			}
-	  } 
-	  finally
-	  {
-		  this.jedis.close();
-	  }
+//	  } 
+//	  finally
+//	  {
+//		  this.jedis.close();
+//	  }
 	}
 }
