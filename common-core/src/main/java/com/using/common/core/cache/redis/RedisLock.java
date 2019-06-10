@@ -18,7 +18,8 @@ public class RedisLock {
 	public static final long MILLI_NANO_CONVERSION = 1000 * 1000L;
 	
 	/** 默认超过时间(毫秒)**/
-	public static final long DEFAULT_TIME_OUT = 1000;
+//	public static final long DEFAULT_TIME_OUT = 1000;
+	public static final long DEFAULT_TIME_OUT = 600000;
 	
 	public static final Random RANDOM = new Random();
 	
