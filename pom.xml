@@ -64,7 +64,7 @@
 		<druid.version>1.1.10</druid.version>
 		<druid-spring-boot-starter.version>1.1.10</druid-spring-boot-starter.version>
 <!-- 		<mysql-connector-java.version>6.0.6</mysql-connector-java.version> -->
-		<mysql-connector-java.version>8.0.11</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.16</mysql-connector-java.version>
 
 		<jedis.version>2.9.0</jedis.version>
 
