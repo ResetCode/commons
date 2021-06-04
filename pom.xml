@@ -77,7 +77,7 @@
 		<hessian.version>4.0.51</hessian.version>
 
 		<httpcore.version>4.4.9</httpcore.version>
-		<httpclient.version>4.5.5</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<httpmime.version>4.5.5</httpmime.version>
 
 		<itextpdf.version>5.5.13</itextpdf.version>
