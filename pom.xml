@@ -82,7 +82,7 @@
 
 		<itextpdf.version>5.5.13</itextpdf.version>
 		<itext-asian.version>5.2.0</itext-asian.version>
-		<bcprov.version>1.58</bcprov.version>
+		<bcprov.version>1.67</bcprov.version>
 		<bcpkix.version>1.58</bcpkix.version>
 
 		<poi.version>3.17</poi.version>
