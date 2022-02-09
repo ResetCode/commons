@@ -48,7 +48,7 @@
 
 		<slf4j.version>1.7.25</slf4j.version>
 
-		<shiro.version>1.4.0</shiro.version>
+		<shiro.version>1.7.1</shiro.version>
 
 		<zookeeper.version>3.4.12</zookeeper.version>
 		<zkclient.version>0.10</zkclient.version>
