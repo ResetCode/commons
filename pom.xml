@@ -53,7 +53,7 @@
 		<zookeeper.version>3.4.12</zookeeper.version>
 		<zkclient.version>0.10</zkclient.version>
 		<!-- <dubbo.version>2.5.10</dubbo.version> -->
-		<dubbo.version>2.6.2</dubbo.version>
+		<dubbo.version>2.6.12</dubbo.version>
 		<spring-boot-starter-dubbo.version>1.0.9</spring-boot-starter-dubbo.version>
 		<activemq.version>5.15.2</activemq.version>
 
