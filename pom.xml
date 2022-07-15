@@ -73,7 +73,7 @@
 
 		<dom4j.version>2.1.0</dom4j.version>
 		<fastjson.version>1.2.47</fastjson.version>
-		<jackson.version>2.9.6</jackson.version>
+		<jackson.version>2.12.6.1</jackson.version>
 		<hessian.version>4.0.51</hessian.version>
 
 		<httpcore.version>4.4.9</httpcore.version>
